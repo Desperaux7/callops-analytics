@@ -1,2 +1,8 @@
-# callops-analytics
-Plataforma web para monitoramento de indicadores operacionais em Call Center, com autenticação, dashboard gerencial e visualização individual de performance de agentes.
+## 📌 Roadmap
+
+- [x] Tela de Login
+- [ ] Dashboard Geral
+- [ ] Tela de Agente Individual
+- [ ] Integração com API
+- [ ] Autenticação real
+- [ ] Banco de Dados
